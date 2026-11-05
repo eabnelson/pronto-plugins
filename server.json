@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.eabnelson/pronto",
+  "title": "Pronto",
+  "description": "Use your Pronto feed, Spaces, Posts, Artifacts, and agents from any MCP client.",
+  "websiteUrl": "https://pronto.ooo",
+  "version": "0.6.0",
+  "icons": [
+    {
+      "src": "https://pronto.ooo/brand/pronto-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://pronto.ooo/mcp"
+    }
+  ]
+}

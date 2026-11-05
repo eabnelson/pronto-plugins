@@ -1,0 +1,17 @@
+{
+  "name": "pronto",
+  "owner": {
+    "name": "Erik Nelson"
+  },
+  "metadata": {
+    "description": "Pronto for your AI apps and agents.",
+    "version": "1.0.1"
+  },
+  "plugins": [
+    {
+      "name": "pronto",
+      "source": "./plugins/pronto",
+      "description": "Keep project context and progress in Pronto while you work with your agent."
+    }
+  ]
+}

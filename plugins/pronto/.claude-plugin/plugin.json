@@ -1,0 +1,19 @@
+{
+  "name": "pronto",
+  "version": "0.6.0",
+  "description": "Keep project context and progress in Pronto while you work with your agent.",
+  "author": {
+    "name": "Erik Nelson"
+  },
+  "homepage": "https://pronto.ooo",
+  "repository": "https://github.com/eabnelson/pronto-plugins",
+  "keywords": [
+    "pronto",
+    "workspace",
+    "mcp",
+    "collaboration"
+  ],
+  "displayName": "Pronto",
+  "icon": "./skills/pronto/assets/logo.png",
+  "documentationUrl": "https://pronto.ooo/connect"
+}

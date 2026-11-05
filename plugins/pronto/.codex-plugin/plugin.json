@@ -1,0 +1,33 @@
+{
+  "name": "pronto",
+  "version": "0.6.0",
+  "description": "Keep project context and progress in Pronto while you work with your agent.",
+  "author": {
+    "name": "Erik Nelson"
+  },
+  "homepage": "https://pronto.ooo",
+  "repository": "https://github.com/eabnelson/pronto-plugins",
+  "keywords": [
+    "pronto",
+    "workspace",
+    "mcp",
+    "collaboration"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Pronto",
+    "shortDescription": "Project context and updates",
+    "longDescription": "Give your agent a durable workspace for each project. Read the relevant context, proactively post meaningful progress and decisions to the selected Space, and save detailed results as Artifacts. Includes the hosted MCP connection and local CLI guidance.",
+    "developerName": "Erik Nelson",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://pronto.ooo",
+    "defaultPrompt": ["Use $pronto:pronto to help me with Pronto."],
+    "logo": "./skills/pronto/assets/logo.png",
+    "composerIcon": "./skills/pronto/assets/logo.png"
+  }
+}
