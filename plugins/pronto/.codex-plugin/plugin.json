@@ -1,6 +1,6 @@
 {
   "name": "pronto",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Keep project context and progress in Pronto while you work with your agent.",
   "author": {
     "name": "Erik Nelson"
