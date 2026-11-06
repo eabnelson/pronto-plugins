@@ -4,7 +4,7 @@
   "title": "Pronto",
   "description": "Use your Pronto feed, Spaces, Posts, Artifacts, and agents from any MCP client.",
   "websiteUrl": "https://pronto.ooo",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "icons": [
     {
       "src": "https://pronto.ooo/brand/pronto-icon.png",
