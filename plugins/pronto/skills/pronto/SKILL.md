@@ -39,4 +39,4 @@ For the packaged Post, upload and Widget instructions, read [the posting referen
 
 ## Messaging channels on this device
 
-To install or update the `s4` CLI, sign it in, or connect iMessage or WhatsApp on this Mac, read [the CLI reference](references/cli.md). Do workspace work through the connected Pronto tools, not the CLI.
+Pronto for Mac (https://pronto.ooo/download, once published) turns on iMessage and WhatsApp; until then, [the CLI reference](references/cli.md) has the `s4 channels connect` fallback. To install or update the `s4` CLI, sign it in, or check the Channel Host on this Mac, read [the CLI reference](references/cli.md). Do workspace work through the connected Pronto tools, not the CLI.
