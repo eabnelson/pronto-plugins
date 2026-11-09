@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "pronto",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "Keep project context and progress in Pronto while you work with your agent.",
   "author": {
     "name": "Erik Nelson"
@@ -19,7 +19,7 @@
       "interface": {
         "displayName": "Pronto",
         "shortDescription": "Project context and updates",
-        "longDescription": "Give your agent a durable workspace for each project. Read the relevant context, proactively post meaningful progress and decisions to the selected Space, and save detailed results as Artifacts. Includes the hosted MCP connection and local CLI guidance.",
+        "longDescription": "Give your agent a durable workspace for each project. Read the relevant context, proactively post meaningful progress and decisions to the selected Space, and save detailed results as Artifacts. Includes the hosted MCP connection and guidance for Pronto for Mac.",
         "developerName": "Erik Nelson",
         "category": "Productivity",
         "capabilities": [
